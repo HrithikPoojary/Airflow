@@ -5,17 +5,17 @@ def group():
 
         @task
         def A():
-                print("A")
+                return 42
 
         @task_group(
                         default_args={
                                 "retries":2
                         }
         )
-        def my_group():
+        def my_group(val : int):
                 @task
-                def B():
-                        print("B")
+                def B(my_val : int):
+                        return my_val + 42
                 
                 @task_group(
                                 default_args={
@@ -28,7 +28,8 @@ def group():
                                 print("C")
                         C()
 
-                B() >> my_nested_group()
+                B(val) >> my_nested_group()
 
-        A()>> my_group()
+        val = A() 
+        my_group(val)
 group() 
