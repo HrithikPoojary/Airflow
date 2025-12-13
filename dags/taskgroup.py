@@ -13,11 +13,14 @@ def group():
                 def B():
                         print("B")
                 
-                @task
-                def C():
-                        print("C")
+                @task_group
+                def my_nested_group():
+                        @task
+                        def C():
+                                print("C")
+                        C()
 
-                B() >> C()
+                B() >> my_nested_group()
 
         A()>> my_group()
 group() 
