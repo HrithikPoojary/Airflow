@@ -7,15 +7,21 @@ def celery_dag():
         def A():
                 sleep(5)
         
-        @task
+        @task(
+                queue = "high_cpu"
+        )
         def B():
                 sleep(5)
 
-        @task
+        @task(
+                queue = "high_cpu"
+        )
         def C():
                 sleep(5)
 
-        @task
+        @task(
+                queue = "high_cpu"
+        )
         def D():
                 sleep(5)
 
