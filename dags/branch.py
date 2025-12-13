@@ -12,16 +12,16 @@ def branch():
                         return ["equal_to_1","different_one"]
                 return "not_equal_to_1"
         @task
-        def equal_to_1():
-                print('Equal to 1')
+        def equal_to_1(val:int):
+                print(f'Equal to 1 {val}')
         @task
-        def not_equal_to_1():
-                print('Not equal to 1')
+        def not_equal_to_1(val:int):
+                print(f'Not equal to 1 {val}')
         @task
-        def different_one():
-                print("Someting else")
+        def different_one(val:int):
+                print(f"Someting else {val}")
 
         val = a()
-        b(val) >> [equal_to_1(),not_equal_to_1(),different_one()]
+        b(val) >> [equal_to_1(val),not_equal_to_1(val),different_one(val)]
 
 branch()
