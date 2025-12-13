@@ -37,3 +37,15 @@
 {"timestamp":"2025-12-13T09:27:31.250891","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-12-13T09:28:05.105683","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-12-13T09:30:15.026848","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:22:34.390543","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:23:12.863988","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:23:43.823696","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:24:14.851365","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:24:45.803778","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:25:16.784827","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:25:47.698976","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:26:18.291694","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:26:52.620340","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:27:26.062355","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:27:57.357340","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:28:28.334631","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Celery.py","logger":"airflow.models.dagbag.DagBag"}

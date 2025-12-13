@@ -37,3 +37,15 @@
 {"timestamp":"2025-12-13T09:27:31.162377","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-12-13T09:28:05.105692","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-12-13T09:30:15.101332","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:22:34.394234","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:23:13.992699","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:23:45.000756","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:24:16.025332","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:24:46.981782","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:25:17.948169","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:25:49.037431","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:26:20.913331","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:26:54.064764","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:27:26.633470","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:27:57.361620","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T14:28:28.367183","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/User.py","logger":"airflow.models.dagbag.DagBag"}
