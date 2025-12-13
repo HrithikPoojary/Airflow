@@ -260,3 +260,13 @@
 {"timestamp":"2025-12-13T17:24:43.083925","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-12-13T17:25:13.243655","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-12-13T17:25:43.434869","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:26:14.026912","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:26:44.142790","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:27:15.285913","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:27:45.534468","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:28:15.703914","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:28:46.068326","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:29:16.949063","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:29:47.450446","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:30:17.709912","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-12-13T17:30:48.322583","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/taskgroup.py","logger":"airflow.models.dagbag.DagBag"}
